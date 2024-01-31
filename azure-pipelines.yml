@@ -12,7 +12,7 @@ resources:
 - repo: self
 
 variables:
-  IMAGE_NAME: houssemdocker/album-backend-api
+  IMAGE_NAME: ikram2398/hussein-backend
   CONTAINERAPPS_APP: backend
   CONTAINERAPPS_ENVIRONMENT: frontend
   RESOURCE_GROUP: frontend
